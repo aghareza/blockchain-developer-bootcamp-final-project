@@ -14,13 +14,16 @@ Hopefully, a mint token will provide NFT project creators a more straightforward
 3. When minting starts user mints project but stake tokens are consumed
 
 
-## Extenstions
+## Extensions
 
  ### Governance
-    * Mint tokens can be used to vote for projects on the platform
+
+     Mint tokens can be used to vote for projects on the platform
 
  ### Staking
-    * Staking could provide discount to minting for length of time staked.
+
+    Staking could provide discount to minting for length of time staked.
 
  ### Lottery
-    * If too many people stake tokens for a project the system could provide a lottery for which staked tokens can be used to mint.
+
+    If too many people stake tokens for a project the system could provide a lottery for which staked tokens can be used to mint.

@@ -2,7 +2,9 @@
 
 ## Overview
 
-The goal of this project is to allow for registration of intent to mint a NFT project. This would be done by first purchasing a mint token then staking a mint token towards a project. Once the minting of a project begins, through some kind of pre-sale, users will be able to have their staked tokens consumed for a NFT. Users will be able to unstake at anytime and also redeem inital payment by returning their mint tokens. 
+The goal of this project is to allow for registration of intent to mint an NFT project. This process would be purchasing a mint token then staking a mint token towards a project. Once the minting of a project begins, users will have their staked tokens consumed for an NFT. Users will be able to unstake and redeem initial payment by returning their mint tokens.
+
+Hopefully, a mint token will provide NFT project creators a more straightforward way to allow supports to register early for a mint without competing in a public mint.
 
 
 ## Example Workflow
@@ -10,3 +12,15 @@ The goal of this project is to allow for registration of intent to mint a NFT pr
 1. User buys any number of mint tokens.
 2. User stakes tokens for project they want to mint.
 3. When minting starts user mints project but stake tokens are consumed
+
+
+## Extenstions
+
+ ### Governance
+    * Mint tokens can be used to vote for projects on the platform
+
+ ### Staking
+    * Staking could provide discount to minting for length of time staked.
+
+ ### Lottery
+    * If too many people stake tokens for a project the system could provide a lottery for which staked tokens can be used to mint.
